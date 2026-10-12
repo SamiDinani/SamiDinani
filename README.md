@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiullah</h1>
-<h3 align="center">Highly skilled Senior Software Engineer specialized in .NET Core, Azure, JavaScript, and API integration. Expertise in clean architecture, secure payment services, and optimized cloud infrastructure management. Strong analytical thinking, exceptional communication, and a proactive problem-solving mindset.</h3>
+<h3 align="center">Senior Full Stack Engineer with 8+ years of experience delivering production web applications for clients in the US, Canada, and Spain across healthcare, fintech, and compliance domains. Builds end-to-end on .NET 8, ReactJS, AWS, and Azure, from database and API design through payment integrations to production deployment. Hands-on with Generative AI, shipping RAG pipelines and LLM-powered product features using OpenAI, Azure OpenAI, and vector search.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samidinani&label=Profile%20views&color=0e75b6&style=flat" alt="samidinani" /> </p>
 
